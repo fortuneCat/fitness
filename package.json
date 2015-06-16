@@ -1,0 +1,25 @@
+{
+  "name": "fitness",
+  "version": "1.0.0",
+  "description": "健身网站模板",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --harmony index.js"
+  },
+  "dependencies": {
+    "koa": "^0.20.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/koalakity/fitness.git"
+  },
+  "keywords": [
+    "fintness"
+  ],
+  "author": "wtf1943",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koalakity/fitness/issues"
+  },
+  "homepage": "https://github.com/koalakity/fitness"
+}
